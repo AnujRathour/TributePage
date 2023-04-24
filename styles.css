@@ -1,0 +1,76 @@
+* {
+  overflow-x: hidden;
+}
+h1 {
+  text-align: center;
+  margin: 10px auto;
+  font-size: 4rem;
+}
+p {
+  text-align: center;
+  font-size: 21;
+}
+img {
+  display: block;
+  max-width: 100%;
+  border-radius: 0.5rem;
+  height: auto;
+  margin: 0 auto;
+}
+figure figcaption {
+  text-align: center;
+}
+#img-div {
+  background: white;
+  padding: 12px;
+  margin: 0;
+}
+h3 {
+  text-align: center;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+  color: #333;
+  text-align: center;
+  margin: 0;
+  line-height: 1.5;
+}
+main {
+  width: 100%;
+}
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+ul {
+  text-align: left;
+  margin: 5px auto 10px auto;
+  max-width: 520px;
+  line-height: 1.6;
+}
+li {
+  text-align: left;
+  margin: 10px 0 10px 0;
+}
+blockquote {
+  font-style: italic;
+  text-align: left;
+  margin: 0px auto 50px auto;
+  max-width: 500px;
+}
+main {
+  padding: 1.2rem;
+  border-radius: 1.25;
+  margin: 15px 20px;
+  background: #eee;
+}
+a {
+  color: darkcyan;
+}
+a:visited {
+  color: cadetblue;
+}
+html {
+  font-size: 10px;
+}
